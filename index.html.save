@@ -1,0 +1,21 @@
+nano about.html
+nano projects.html
+nano contact.html
+nano faq.html
+nano style.css
+nano about.html
+nano contact.html
+nano projects.html
+nano faq.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+</head>
+    <link rel="stylesheet" href="style.css">
+<body>
+    <h1>Welcome to Our Website!</h1>
+    <p>This is our introduction section.</p>
+</body>
+</html>
+
